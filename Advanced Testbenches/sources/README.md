@@ -1,0 +1,1 @@
+The files imported are those created for the Parking Gantry gate, while the new files were created to implement automated testing of the FSM, covering more test cases and making the testing more autonomous and less prone to error.
